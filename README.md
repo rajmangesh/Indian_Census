@@ -26,3 +26,5 @@ The analysis aims to identify overall trends as well as insights into specific s
 - Compare census data with other datasets to identify correlations
 
 This analysis provides a quick overview of India's population landscape. Further analysis can provide more granular insights by district, demographics, education levels, income levels etc. Population data is key for central and state planning.
+
+powerBI Dashboard link- https://app.powerbi.com/links/MGFibEUI-T?ctid=0acca485-0732-47a2-926e-8af9c3c61a0b&pbi_source=linkShare
